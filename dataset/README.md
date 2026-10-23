@@ -8,13 +8,14 @@ The scripts read three daily Excel files from this folder:
 | `u30_1day.xlsx` | Dow Jones Industrial Average (DJIA) | `closed` | 2017-01-03 to 2024-01-19 |
 | `u500_1day.xlsx` | S&P 500 | `closed` | 2017-01-03 to 2024-01-19 |
 
-The index data were obtained from commercial data providers and are not
-redistributed in this repository. They are available from the corresponding
-author (theepakorn@econ.tu.ac.th) on reasonable request.
+These are the files used to produce the results in `results/`. Questions
+about the data can be sent to the corresponding author
+(theepakorn@econ.tu.ac.th).
 
 ## Format
 
-Only the first worksheet of each file is read. Each row is one trading day.
+Only the first worksheet of each file is read; the other worksheets are not
+used. Each row is one trading day.
 
 * `date`: integer `yyyymmdd`. The DAX file uses Buddhist-era years
   (year + 543), for example `25630331` is 31 March 2020; the scripts convert

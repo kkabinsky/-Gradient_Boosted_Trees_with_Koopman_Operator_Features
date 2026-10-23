@@ -32,7 +32,7 @@ and the figures.
 ├── daily_backtest.py        daily XGBoost-LSTM backtest after transaction costs (Table 9)
 ├── gen_supp_tables.py       LaTeX bodies of Supplementary Tables S1-S8
 ├── make_excel_results.py    collects all results into Excel workbooks
-├── dataset/                 input data (see dataset/README.md; not distributed)
+├── dataset/                 the three daily index data files (see dataset/README.md)
 └── results/
     ├── excel/               paper_tables.xlsx and one *_raw.xlsx workbook per experiment
     ├── csv/                 raw outputs of each experiment
@@ -93,11 +93,10 @@ pip install -r requirements.txt
 
 ## Data
 
-Place the three daily Excel files in `dataset/`; see
-[`dataset/README.md`](dataset/README.md) for the expected format. The index
-data were obtained from commercial data providers and are not distributed
-here. They are available from the corresponding author on reasonable request.
-The saved results in `results/` can be inspected without the data.
+The three daily Excel files used by the programs (DAX, DJIA and S&P 500) are
+included in `dataset/`; see [`dataset/README.md`](dataset/README.md) for their
+format. The intraday data behind Tables 6-8 are not included and are available
+from the corresponding author on reasonable request.
 
 ## Reproducing the results
 
