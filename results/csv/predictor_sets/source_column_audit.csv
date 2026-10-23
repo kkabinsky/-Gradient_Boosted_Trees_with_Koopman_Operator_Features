@@ -1,0 +1,11 @@
+dataset,column,decision,timing
+dax,return,keep,"p_t/p_{t-1}-1 (matches close, |diff|<1e-7); known at t"
+dax,direction of dax,keep,(r_t-r_{t-1})/r_{t-1}; known at t; inf/65535 sentinels set to NaN
+dax,Crash Indicator dax (10%),keep,equals 1{direction_t>0} on all rows; known at t
+dax,drawdown,exclude,set on day t iff r_t<0 and r_{t+1}>=0: uses r_{t+1} (look-ahead)
+u30,Return of u30,keep,p_t/p_{t-1}-1 (exact); known at t
+u30,direction of u30,keep,equals 1{r_t>0} on all rows; known at t
+u30,Crash Indicator u30 (1%),exclude,not reproducible from r_{<=t}; timing unverifiable
+u500,Return of U500,keep,p_t/p_{t-1}-1 (exact); known at t
+u500,direction of U500,keep,equals 1{r_t>0} on all rows; known at t
+u500,Crash Indicator U500 (1%),exclude,not reproducible from r_{<=t}; timing unverifiable

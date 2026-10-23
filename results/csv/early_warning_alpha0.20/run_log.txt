@@ -1,0 +1,104 @@
+  Warning: close column 'cp' not found; using 'closed' instead.
+[u30] refit 1/22 tau=1728 n_train=1709 q=0.0410 base=0.200 (63s)
+  Warning: close column 'cp' not found; using 'closed' instead.
+[u500] refit 1/22 tau=1728 n_train=1709 q=0.0390 base=0.200 (64s)
+[dax] refit 1/22 tau=1720 n_train=1701 q=0.0436 base=0.200 (64s)
+[u30] refit 2/22 tau=1748 n_train=1729 q=0.0419 base=0.200 (122s)
+[u500] refit 2/22 tau=1748 n_train=1729 q=0.0399 base=0.200 (127s)
+[dax] refit 2/22 tau=1740 n_train=1721 q=0.0444 base=0.200 (128s)
+[dax] refit 3/22 tau=1760 n_train=1741 q=0.0452 base=0.200 (186s)
+[u30] refit 3/22 tau=1768 n_train=1749 q=0.0433 base=0.200 (187s)
+[u500] refit 3/22 tau=1768 n_train=1749 q=0.0409 base=0.200 (189s)
+[u30] refit 4/22 tau=1788 n_train=1769 q=0.0432 base=0.200 (248s)
+[dax] refit 4/22 tau=1780 n_train=1761 q=0.0452 base=0.200 (251s)
+[u500] refit 4/22 tau=1788 n_train=1769 q=0.0410 base=0.200 (254s)
+[u30] refit 5/22 tau=1808 n_train=1789 q=0.0427 base=0.200 (311s)
+[dax] refit 5/22 tau=1800 n_train=1781 q=0.0450 base=0.200 (318s)
+[u500] refit 5/22 tau=1808 n_train=1789 q=0.0409 base=0.200 (320s)
+[u30] refit 6/22 tau=1828 n_train=1809 q=0.0423 base=0.200 (378s)
+[dax] refit 6/22 tau=1820 n_train=1801 q=0.0447 base=0.200 (386s)
+[u500] refit 6/22 tau=1828 n_train=1809 q=0.0409 base=0.200 (388s)
+[u30] refit 7/22 tau=1848 n_train=1829 q=0.0423 base=0.200 (449s)
+[dax] refit 7/22 tau=1840 n_train=1821 q=0.0445 base=0.200 (456s)
+[u500] refit 7/22 tau=1848 n_train=1829 q=0.0411 base=0.200 (459s)
+[u30] refit 8/22 tau=1868 n_train=1849 q=0.0420 base=0.200 (520s)
+[dax] refit 8/22 tau=1860 n_train=1841 q=0.0442 base=0.200 (527s)
+[u500] refit 8/22 tau=1868 n_train=1849 q=0.0409 base=0.200 (529s)
+[u30] refit 9/22 tau=1888 n_train=1869 q=0.0419 base=0.200 (592s)
+[dax] refit 9/22 tau=1880 n_train=1861 q=0.0439 base=0.200 (599s)
+[u500] refit 9/22 tau=1888 n_train=1869 q=0.0409 base=0.200 (601s)
+[u30] refit 10/22 tau=1908 n_train=1889 q=0.0423 base=0.200 (662s)
+[dax] refit 10/22 tau=1900 n_train=1881 q=0.0438 base=0.200 (673s)
+[u500] refit 10/22 tau=1908 n_train=1889 q=0.0411 base=0.200 (675s)
+[u30] refit 11/22 tau=1928 n_train=1909 q=0.0422 base=0.200 (732s)
+[dax] refit 11/22 tau=1920 n_train=1901 q=0.0439 base=0.200 (744s)
+[u500] refit 11/22 tau=1928 n_train=1909 q=0.0409 base=0.200 (749s)
+[u30] refit 12/22 tau=1948 n_train=1929 q=0.0420 base=0.200 (805s)
+[dax] refit 12/22 tau=1940 n_train=1921 q=0.0437 base=0.200 (818s)
+[u500] refit 12/22 tau=1948 n_train=1929 q=0.0407 base=0.200 (823s)
+[u30] refit 13/22 tau=1968 n_train=1949 q=0.0417 base=0.200 (880s)
+[dax] refit 13/22 tau=1960 n_train=1941 q=0.0435 base=0.200 (889s)
+[u500] refit 13/22 tau=1968 n_train=1949 q=0.0406 base=0.200 (899s)
+[u30] refit 14/22 tau=1988 n_train=1969 q=0.0416 base=0.200 (954s)
+[dax] refit 14/22 tau=1980 n_train=1961 q=0.0433 base=0.200 (965s)
+[u500] refit 14/22 tau=1988 n_train=1969 q=0.0406 base=0.200 (977s)
+[u30] refit 15/22 tau=2008 n_train=1989 q=0.0414 base=0.200 (1030s)
+[dax] refit 15/22 tau=2000 n_train=1981 q=0.0433 base=0.200 (1040s)
+[u500] refit 15/22 tau=2008 n_train=1989 q=0.0403 base=0.200 (1052s)
+[dax] refit 16/22 tau=2020 n_train=2001 q=0.0429 base=0.200 (1102s)
+[u30] refit 16/22 tau=2028 n_train=2009 q=0.0411 base=0.200 (1106s)
+[u500] refit 16/22 tau=2028 n_train=2009 q=0.0402 base=0.200 (1129s)
+[u30] refit 17/22 tau=2048 n_train=2029 q=0.0408 base=0.200 (1180s)
+[dax] refit 17/22 tau=2040 n_train=2021 q=0.0429 base=0.200 (1182s)
+[u500] refit 17/22 tau=2048 n_train=2029 q=0.0402 base=0.200 (1198s)
+[u30] refit 18/22 tau=2068 n_train=2049 q=0.0404 base=0.200 (1267s)
+[dax] refit 18/22 tau=2060 n_train=2041 q=0.0429 base=0.200 (1269s)
+[u500] refit 18/22 tau=2068 n_train=2049 q=0.0403 base=0.200 (1289s)
+[u30] refit 19/22 tau=2088 n_train=2069 q=0.0410 base=0.200 (1366s)
+[dax] refit 19/22 tau=2080 n_train=2061 q=0.0429 base=0.200 (1368s)
+[u500] refit 19/22 tau=2088 n_train=2069 q=0.0406 base=0.200 (1387s)
+[u30] refit 20/22 tau=2108 n_train=2089 q=0.0410 base=0.200 (1463s)
+[dax] refit 20/22 tau=2100 n_train=2081 q=0.0429 base=0.200 (1466s)
+[u500] refit 20/22 tau=2108 n_train=2089 q=0.0408 base=0.200 (1485s)
+[u30] refit 21/22 tau=2128 n_train=2109 q=0.0407 base=0.200 (1564s)
+[dax] refit 21/22 tau=2120 n_train=2101 q=0.0427 base=0.200 (1565s)
+[u500] refit 21/22 tau=2128 n_train=2109 q=0.0407 base=0.200 (1584s)
+[u30] refit 22/22 tau=2148 n_train=2129 q=0.0403 base=0.200 (1660s)
+[dax] refit 22/22 tau=2140 n_train=2121 q=0.0424 base=0.200 (1661s)
+[u500] refit 22/22 tau=2148 n_train=2129 q=0.0406 base=0.200 (1678s)
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+
+EWS performance
+ dataset           signal  n_eval  event_days  event_episodes  event_rate    auc  hit_rate  false_alarm_rate  precision  alarm_rate  tp  fp  fn  tn  brier  brier_climatology  brier_skill
+    dax Volatility (20d)     410          43              11      0.1049 0.5937    0.2791            0.1880     0.1481      0.1976  12  69  31 298    NaN                NaN          NaN
+    dax       XGBoost F1     410          43              11      0.1049 0.5257    0.3023            0.2343     0.1313      0.2415  13  86  30 281 0.1796             0.1030      -0.7432
+    dax       XGBoost F2     410          43              11      0.1049 0.4030    0.1628            0.3324     0.0543      0.3146   7 122  36 245 0.2024             0.1030      -0.9652
+    dax       XGBoost F3     410          43              11      0.1049 0.4896    0.3023            0.2807     0.1121      0.2829  13 103  30 264 0.1950             0.1030      -0.8932
+    u30 Volatility (20d)     412          55              12      0.1335 0.5391    0.0000            0.0588     0.0000      0.0510   0  21  55 336    NaN                NaN          NaN
+    u30       XGBoost F1     412          55              12      0.1335 0.3955    0.0727            0.1821     0.0580      0.1675   4  65  51 292 0.1996             0.1201      -0.6619
+    u30       XGBoost F2     412          55              12      0.1335 0.4091    0.1091            0.2969     0.0536      0.2718   6 106  49 251 0.2036             0.1201      -0.6952
+    u30       XGBoost F3     412          55              12      0.1335 0.3737    0.0909            0.1821     0.0714      0.1699   5  65  50 292 0.2015             0.1201      -0.6774
+   u500 Volatility (20d)     412          87              18      0.2112 0.6163    0.2414            0.1631     0.2838      0.1796  21  53  66 272    NaN                NaN          NaN
+   u500       XGBoost F1     412          87              18      0.2112 0.4981    0.0115            0.0954     0.0312      0.0777   1  31  86 294 0.1961             0.1667      -0.1763
+   u500       XGBoost F2     412          87              18      0.2112 0.4171    0.1379            0.2123     0.1481      0.1966  12  69  75 256 0.2296             0.1667      -0.3774
+   u500       XGBoost F3     412          87              18      0.2112 0.4870    0.1494            0.1200     0.2500      0.1262  13  39  74 286 0.1970             0.1667      -0.1820
+
+AUC tests (moving-block bootstrap)
+ dataset                  comparison    diff   ci_lo  ci_hi  p_value  n_boot_valid
+    dax AUC XGBoost F1 - Volatility -0.0680 -0.2544 0.3147   0.6190          2000
+    dax AUC XGBoost F2 - Volatility -0.1907 -0.3876 0.2518   0.2855          2000
+    dax AUC XGBoost F3 - Volatility -0.1041 -0.3043 0.3175   0.4955          2000
+    dax         AUC XGBoost F3 - F1 -0.0361 -0.0859 0.0175   0.1915          2000
+    dax         AUC XGBoost F2 - F1 -0.1227 -0.2524 0.0791   0.1640          2000
+    u30 AUC XGBoost F1 - Volatility -0.1436 -0.3241 0.1050   0.2050          2000
+    u30 AUC XGBoost F2 - Volatility -0.1300 -0.4185 0.1824   0.4850          2000
+    u30 AUC XGBoost F3 - Volatility -0.1654 -0.3447 0.1042   0.1725          2000
+    u30         AUC XGBoost F3 - F1 -0.0218 -0.0858 0.0302   0.4695          2000
+    u30         AUC XGBoost F2 - F1  0.0135 -0.2503 0.2511   0.9215          2000
+   u500 AUC XGBoost F1 - Volatility -0.1181 -0.3451 0.1211   0.3190          2000
+   u500 AUC XGBoost F2 - Volatility -0.1992 -0.4008 0.0969   0.1325          2000
+   u500 AUC XGBoost F3 - Volatility -0.1293 -0.3516 0.0711   0.2115          2000
+   u500         AUC XGBoost F3 - F1 -0.0112 -0.1089 0.0467   0.7810          2000
+   u500         AUC XGBoost F2 - F1 -0.0810 -0.1965 0.1052   0.3575          2000
+
+Saved figure: koopman_outputs_ews_alpha20/fig_ews_signals_alpha20.eps/.jpg

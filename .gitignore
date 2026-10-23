@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+catboost_info/
+
+# Index data: obtained from commercial data providers, not redistributed here.
+# See dataset/README.md.
+dataset/*.xlsx
+dataset/*.xls
+dataset/*.csv
+
+# Office lock files
+~$*
+
+# Smoke-test output (see README)
+results/smoke_test/

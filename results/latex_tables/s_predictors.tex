@@ -1,0 +1,15 @@
+Return over the last $k$ days, $p_t/p_{t-k}-1$ & $k=1,\dots,15$ & 15 & 15 & 15 \\
+Closing price $k$ days ago & $k=1,\dots,15$ & 15 & 15 & 15 \\
+Moving average of the close & windows 3, 5, 7, 10, 14, 20, 30 days & 7 & 7 & 7 \\
+Exponential moving average of the close & windows 3, 5, 7, 10, 14, 20, 30 days & 7 & 7 & 7 \\
+Rolling standard deviation of the close & windows 3, 5, 7, 10, 14, 20, 30 days & 7 & 7 & 7 \\
+$z$-score of the close & windows 3, 5, 7, 10, 14, 20, 30 days & 7 & 7 & 7 \\
+Relative strength index (RSI) & windows 6, 10, 14, 20 days & 4 & 4 & 4 \\
+Rate of change & windows 6, 10, 14, 20 days & 4 & 4 & 4 \\
+MACD (12, 26, 9): line, signal line, histogram & -- & 3 & 3 & 3 \\
+Bollinger bands (20 days, 2 s.d.): middle, upper, lower, width, \%B & -- & 5 & 5 & 5 \\
+Daily return (source file) & value at day $t$ & 1 & 1 & 1 \\
+Direction indicator (source file) & value at day $t$ & 1 & 1 & 1 \\
+Crash indicator (source file) & value at day $t$ & 1 & 0 & 0 \\
+\midrule
+Total technical predictors & & 77 & 76 & 76 \\

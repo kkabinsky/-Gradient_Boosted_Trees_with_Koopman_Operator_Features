@@ -1,0 +1,4 @@
+dataset,T_usable,T0,n_test,n_refits,R,first_test_date,last_test_date,n_F0,n_F1,n_F2,n_F3,source_cols_kept,source_cols_excluded,runtime_s
+dax,2150,1720,430,22,20,25650826,25670118,15,77,33,110,return; direction of dax; Crash Indicator dax (10%),drawdown,1049.4
+u30,2160,1728,432,22,20,20220827,20240118,15,76,33,109,Return of u30; direction of u30,Crash Indicator u30 (1%),1052.1
+u500,2160,1728,432,22,20,20220827,20240118,15,76,33,109,Return of U500; direction of U500,Crash Indicator U500 (1%),1051.9

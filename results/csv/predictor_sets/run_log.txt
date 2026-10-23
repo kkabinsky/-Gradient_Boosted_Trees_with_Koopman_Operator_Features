@@ -1,0 +1,109 @@
+  Warning: close column 'cp' not found; using 'closed' instead.
+[u500] refit 1/22 tau=1728 n_train=1728 n_F1=76 ae_loss=0.12926 (27s)
+[dax] refit 1/22 tau=1720 n_train=1720 n_F1=77 ae_loss=0.12056 (27s)
+  Warning: close column 'cp' not found; using 'closed' instead.
+[u30] refit 1/22 tau=1728 n_train=1728 n_F1=76 ae_loss=0.11715 (27s)
+[u30] refit 2/22 tau=1748 n_train=1748 n_F1=76 ae_loss=0.12251 (59s)
+[dax] refit 2/22 tau=1740 n_train=1740 n_F1=77 ae_loss=0.11514 (59s)
+[u500] refit 2/22 tau=1748 n_train=1748 n_F1=76 ae_loss=0.12651 (60s)
+[u30] refit 3/22 tau=1768 n_train=1768 n_F1=76 ae_loss=0.11750 (96s)
+[u500] refit 3/22 tau=1768 n_train=1768 n_F1=76 ae_loss=0.14102 (96s)
+[dax] refit 3/22 tau=1760 n_train=1760 n_F1=77 ae_loss=0.10717 (97s)
+[u500] refit 4/22 tau=1788 n_train=1788 n_F1=76 ae_loss=0.12853 (134s)
+[dax] refit 4/22 tau=1780 n_train=1780 n_F1=77 ae_loss=0.10494 (137s)
+[u30] refit 4/22 tau=1788 n_train=1788 n_F1=76 ae_loss=0.11648 (139s)
+[u500] refit 5/22 tau=1808 n_train=1808 n_F1=76 ae_loss=0.11946 (195s)
+[dax] refit 5/22 tau=1800 n_train=1800 n_F1=77 ae_loss=0.11870 (197s)
+[u30] refit 5/22 tau=1808 n_train=1808 n_F1=76 ae_loss=0.10794 (201s)
+[u500] refit 6/22 tau=1828 n_train=1828 n_F1=76 ae_loss=0.11644 (249s)
+[u30] refit 6/22 tau=1828 n_train=1828 n_F1=76 ae_loss=0.12073 (252s)
+[dax] refit 6/22 tau=1820 n_train=1820 n_F1=77 ae_loss=0.09255 (253s)
+[u500] refit 7/22 tau=1848 n_train=1848 n_F1=76 ae_loss=0.12500 (316s)
+[dax] refit 7/22 tau=1840 n_train=1840 n_F1=77 ae_loss=0.12199 (319s)
+[u30] refit 7/22 tau=1848 n_train=1848 n_F1=76 ae_loss=0.10710 (319s)
+[dax] refit 8/22 tau=1860 n_train=1860 n_F1=77 ae_loss=0.12682 (369s)
+[u500] refit 8/22 tau=1868 n_train=1868 n_F1=76 ae_loss=0.10628 (370s)
+[u30] refit 8/22 tau=1868 n_train=1868 n_F1=76 ae_loss=0.10614 (371s)
+[dax] refit 9/22 tau=1880 n_train=1880 n_F1=77 ae_loss=0.11614 (432s)
+[u500] refit 9/22 tau=1888 n_train=1888 n_F1=76 ae_loss=0.12536 (432s)
+[u30] refit 9/22 tau=1888 n_train=1888 n_F1=76 ae_loss=0.11070 (434s)
+[u500] refit 10/22 tau=1908 n_train=1908 n_F1=76 ae_loss=0.13467 (481s)
+[dax] refit 10/22 tau=1900 n_train=1900 n_F1=77 ae_loss=0.12749 (483s)
+[u30] refit 10/22 tau=1908 n_train=1908 n_F1=76 ae_loss=0.10376 (484s)
+[dax] refit 11/22 tau=1920 n_train=1920 n_F1=77 ae_loss=0.11197 (532s)
+[u30] refit 11/22 tau=1928 n_train=1928 n_F1=76 ae_loss=0.10734 (533s)
+[u500] refit 11/22 tau=1928 n_train=1928 n_F1=76 ae_loss=0.12892 (536s)
+[dax] refit 12/22 tau=1940 n_train=1940 n_F1=77 ae_loss=0.10188 (577s)
+[u30] refit 12/22 tau=1948 n_train=1948 n_F1=76 ae_loss=0.10781 (577s)
+[u500] refit 12/22 tau=1948 n_train=1948 n_F1=76 ae_loss=0.13526 (579s)
+[dax] refit 13/22 tau=1960 n_train=1960 n_F1=77 ae_loss=0.10083 (615s)
+[u30] refit 13/22 tau=1968 n_train=1968 n_F1=76 ae_loss=0.09461 (616s)
+[u500] refit 13/22 tau=1968 n_train=1968 n_F1=76 ae_loss=0.12693 (617s)
+[dax] refit 14/22 tau=1980 n_train=1980 n_F1=77 ae_loss=0.10821 (652s)
+[u30] refit 14/22 tau=1988 n_train=1988 n_F1=76 ae_loss=0.12322 (655s)
+[u500] refit 14/22 tau=1988 n_train=1988 n_F1=76 ae_loss=0.11747 (656s)
+[dax] refit 15/22 tau=2000 n_train=2000 n_F1=77 ae_loss=0.10622 (696s)
+[u30] refit 15/22 tau=2008 n_train=2008 n_F1=76 ae_loss=0.10294 (700s)
+[u500] refit 15/22 tau=2008 n_train=2008 n_F1=76 ae_loss=0.11574 (701s)
+[dax] refit 16/22 tau=2020 n_train=2020 n_F1=77 ae_loss=0.10941 (749s)
+[u30] refit 16/22 tau=2028 n_train=2028 n_F1=76 ae_loss=0.10356 (752s)
+[u500] refit 16/22 tau=2028 n_train=2028 n_F1=76 ae_loss=0.12204 (754s)
+[dax] refit 17/22 tau=2040 n_train=2040 n_F1=77 ae_loss=0.12379 (801s)
+[u30] refit 17/22 tau=2048 n_train=2048 n_F1=76 ae_loss=0.11669 (804s)
+[u500] refit 17/22 tau=2048 n_train=2048 n_F1=76 ae_loss=0.12175 (805s)
+[dax] refit 18/22 tau=2060 n_train=2060 n_F1=77 ae_loss=0.10008 (848s)
+[u30] refit 18/22 tau=2068 n_train=2068 n_F1=76 ae_loss=0.10214 (851s)
+[u500] refit 18/22 tau=2068 n_train=2068 n_F1=76 ae_loss=0.12356 (852s)
+[dax] refit 19/22 tau=2080 n_train=2080 n_F1=77 ae_loss=0.10721 (899s)
+[u30] refit 19/22 tau=2088 n_train=2088 n_F1=76 ae_loss=0.10609 (902s)
+[u500] refit 19/22 tau=2088 n_train=2088 n_F1=76 ae_loss=0.12854 (903s)
+[dax] refit 20/22 tau=2100 n_train=2100 n_F1=77 ae_loss=0.11845 (950s)
+[u30] refit 20/22 tau=2108 n_train=2108 n_F1=76 ae_loss=0.10317 (953s)
+[u500] refit 20/22 tau=2108 n_train=2108 n_F1=76 ae_loss=0.11555 (953s)
+[dax] refit 21/22 tau=2120 n_train=2120 n_F1=77 ae_loss=0.11562 (1000s)
+[u30] refit 21/22 tau=2128 n_train=2128 n_F1=76 ae_loss=0.12539 (1004s)
+[u500] refit 21/22 tau=2128 n_train=2128 n_F1=76 ae_loss=0.12703 (1004s)
+[dax] refit 22/22 tau=2140 n_train=2140 n_F1=77 ae_loss=0.11633 (1049s)
+[u500] refit 22/22 tau=2148 n_train=2148 n_F1=76 ae_loss=0.13023 (1052s)
+[u30] refit 22/22 tau=2148 n_train=2148 n_F1=76 ae_loss=0.10001 (1052s)
+
+RMSE x 10^-2 (rows: method, cols: dataset)
+ dataset       dax     u30    u500
+zero       0.8632  0.7530  0.9074
+hist_mean  0.8624  0.7525  0.9068
+F0         0.8933  0.7912  0.9464
+F1         0.9193  0.7990  0.9857
+F2         0.9091  0.8080  0.9936
+F3         0.9255  0.8112  0.9825
+
+DM (HLN) tests
+ dataset      comparison  DM_HLN  p_value
+    dax        F2 vs F1 -0.5743   0.5661
+    dax        F3 vs F1  0.6243   0.5327
+    dax        F1 vs F0  1.3540   0.1764
+    dax      F1 vs zero  3.1518   0.0017
+    dax      F3 vs zero  3.8126   0.0002
+    dax F1 vs hist_mean  3.1574   0.0017
+    dax F3 vs hist_mean  3.8095   0.0002
+    u30        F2 vs F1  0.5766   0.5645
+    u30        F3 vs F1  0.9897   0.3229
+    u30        F1 vs F0  0.4672   0.6406
+    u30      F1 vs zero  3.5290   0.0005
+    u30      F3 vs zero  3.5084   0.0005
+    u30 F1 vs hist_mean  3.5829   0.0004
+    u30 F3 vs hist_mean  3.5675   0.0004
+   u500        F2 vs F1  0.3448   0.7304
+   u500        F3 vs F1 -0.1730   0.8628
+   u500        F1 vs F0  2.7771   0.0057
+   u500      F1 vs zero  5.1871   0.0000
+   u500      F3 vs zero  3.3612   0.0008
+   u500 F1 vs hist_mean  5.2699   0.0000
+   u500 F3 vs hist_mean  3.4306   0.0007
+
+Feature counts
+ dataset  T_usable   T0  n_test  n_refits  R  first_test_date  last_test_date  n_F0  n_F1  n_F2  n_F3                                    source_cols_kept      source_cols_excluded  runtime_s
+    dax      2150 1720     430        22 20         25650826        25670118    15    77    33   110 return; direction of dax; Crash Indicator dax (10%)                  drawdown     1049.4
+    u30      2160 1728     432        22 20         20220827        20240118    15    76    33   109                     Return of u30; direction of u30  Crash Indicator u30 (1%)     1052.1
+   u500      2160 1728     432        22 20         20220827        20240118    15    76    33   109                   Return of U500; direction of U500 Crash Indicator U500 (1%)     1051.9
+
+Saved figure: D:\paper_factor_xgboost_lstm\final_xgboost_factor\submission_f_xgboost_sn\SUBMISSION_OPERATION\submit_koopman\feature_score_koopman_rev.eps/.jpg
